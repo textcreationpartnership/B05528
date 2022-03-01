@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, anent the rebels who have not yet taken the bond</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05528</idno>
+            <idno type="STC">Wing S1681</idno>
+            <idno type="STC">ESTC R183398</idno>
+            <idno type="EEBO-CITATION">53299273</idno>
+            <idno type="OCLC">ocm 53299273</idno>
+            <idno type="VID">180006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180006)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2810:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, anent the rebels who have not yet taken the bond</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Title vignette: royal arms with initials C R.</note>
+                  <note>Initial letter.</note>
+                  <note>Intentional blank spaces in text.</note>
+                  <note>Signed: Al. Gibson, Cl. Sti. Concilii.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Treason --  Scotland --  Early works to 1800.</term>
+               <term>Loyalty oaths --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:180006:1"/>
+            <!-- PDF PAGE 3 -->
+            <head>
+               <figure>
+                  <p>C R</p>
+                  <p>HONI SOIT QUI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION</head>
+            <head>Anent the Rebels vvho have not yet taken the Bond.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> by the Grace of GOD, King of Great <hi>Britain, France</hi> and <hi>Ireland,</hi> De<g ref="char:EOLhyphen"/>fender of the Faith, </signed>
+               <salute>To  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>  Macers, or Meſſengers at Armes, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially con<g ref="char:EOLhyphen"/>ſtitute, Greeting;</salute>
+            </opener>
+            <p>The Rebellious and Inſolent riſing at <hi>Bothwel</hi>-Bridge was ſo farr from hindring Us from continuing Our Clemency and Indulgence, to ſuch as had ſo ill Deſer<g ref="char:EOLhyphen"/>ved of Us formerly, then when it was in Our Power to have Extirpated that Inſolent and Vitious Crew; Yet to Convince the World and them, that Our former Favours bad not proceeded from Force, but from Clemency, and being deſirous that this Our Clemency ſhould have at laſt Convinced them, whom We were unwilling to Deſtroy, Becauſe they were Our Ancient and Native Subjects, who if they were not ſtrangely miſled, ſhould rather venture their Lives and Fortunes for Us, then for theſe Vain and Giddy-preachers, whom all the reſt of the PROTESTANT-Churches diſowne, and whoſe onely Quarrel is, That We will not a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>low them to be themſelves Chief Rulers: We did by a moſt Remarkable and unexpected Proclamation, not onely enlarge Our Indulgences to thoſe who had not been Engaged in that Execrable Rebellion, but even to thoſe engaged therein; Requiring onely of ſuch as were not Heritors, or Miniſters, that they ſhould Obliege themſelves not to riſe in Armes againſt Us or Our Authority: Notwith<g ref="char:EOLhyphen"/>ſtanding whereof, a great part of the ſaid Rebels have not as yet taken the ſaid Bond, though conceived in ſo gentle and eaſie Terms, and in which We Deſigned as much the Security of their Native Countrey, as of Our own Authority. But becauſe many of theſe who have not taken the Bond, Do profeſs that their not taking of it was occaſioned by want of Lawful Inti<g ref="char:EOLhyphen"/>mation, Or by their Sickneſs, and that they have other Legal Defencesor reaſonable Excuſes; And We being equally unwilling to preclude Our People from any Legal Defence, and from offering their reaſonable Excuſes and Verifications thereof; Or on the other part, to have Our Authority baffled by ſuch as have even Contemned Our Clemency: Therefore to pre<g ref="char:EOLhyphen"/>vent both theſe, We hereby Command all Our Officers, both in Burgh and Land, and the Officers of Our Militia, and Standing Forces to Seiz and Apprehend; And Our reſpective Judges Competent to proceed according to Law againſt ſuch as were in the Rebellion, and who have not yet given in the ſaid Bond before the Dyets mentioned in Our laſt Proclamation, dated the twenty ſeventh day of <hi>July</hi> laſt, Or who ſhall not give in to Our Juſtices betwixt and the firſt day of <hi>January</hi> next, in the year 1680, the ſaid Bond with the Veriſications of their reaſonable Excu<g ref="char:EOLhyphen"/>ſes, and thereby ſatisſie the Lords of Juſticiary, that their not taking of it at the former Dyet proceeded not from their Contempt; Indemnifying hereby fully ſuch as not being Miniſters or Heritors, and others not excepted in Our former Proclamations, as ſhall ſatisfie the Commiſſioners of Our Juſticiary, and ſhall be allowed by them to take the ſaid Bond in manner foreſaid; And for ever excluding all ſuch from Our Mercy and Favour as have been in the ſaid Rebellion, and have not either taken the ſaid Bond before the Dyets contained in Our laſt Proclamation, or ſhall not take the ſame be<g ref="char:EOLhyphen"/>twixt and the time foreſaid; And we are confident all Honeſt men and Good Chriſtians will Concur againſt thoſe obſtinate Rebells, as Enemies not onely to Us, but to all Humane Society, And who now want the leaſt ſhadow of Pretext for Diſobedience, or Irregularity? Certifying likewiſe, hereby all Heritors who ſhall keep any of the ſaids Rebels upon their Ground, or all others who ſhall Harbour or Reſet them, that they ſhall be proceeded againſt with all the Se<g ref="char:EOLhyphen"/>verity that Law can allow, as Enemies to Us, and their Native Countrey. Our Will is herefore, and We Charge you ſtrictly, and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-croſs of <hi>Edinburgh,</hi> and other places needful, and there in Our Name and Authority, by open Proclamation, make Publication of the Premiſes, that none pretend Igno<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance, and Ordains theſe preſents to be Printed.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the thretteenth day of <hi>November,</hi> 1679. And of Our Reign the thretty one year.</date>
+               </dateline>
+               <signed>
+                  <hi>AL. GIBSON,</hi> Cl. Sti. Conciſilii.</signed>
+               <lb/>
+God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majeſty.</hi> 1679.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
